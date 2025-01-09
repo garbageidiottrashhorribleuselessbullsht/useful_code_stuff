@@ -1,0 +1,4 @@
+def create_coin(name): return f"{name} is now worth [value]"
+  fucntion pump() {
+    pump.pumpCoin(money)
+print(create_coin.pump("garbageidiottrashhorribleuselessbullshit"))
