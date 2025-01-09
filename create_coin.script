@@ -1,0 +1,4 @@
+def create_coin(name): return f"{name} has been created on the blockchain lol"
+function deploy() {
+    deploy.block.coin("money")
+print(create_coin.deploy("gabrabgeidiottrashhoribleuselsssbullshit"))
